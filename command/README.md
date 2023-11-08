@@ -1,5 +1,5 @@
 * I made mistake one time. For the first time I commited all strings in once 
-
+sdi 2200235
 
 Иσχύοντας τα δεδομένα του Bandit 0, εισαγάγετε τις ακόλουθες εντολές στη γραμμή εντολών:
 ssh bandit0@bandit.labs.overthewire.org -p 2220 - συνδεθείτε στον server Bandit 0 μέσω SSH.
